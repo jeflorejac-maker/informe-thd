@@ -1,0 +1,13 @@
+## Conclusiones
+THD más determinante: El Cloud Computing e Infraestructura Híbrida (Microsoft Azure) es la tecnología clave del modelo de negocio de Microsoft, ya que actúa como plataforma base sobre la que funcionan su IA, el IoT y la ciberseguridad, genera sus mayores ingresos recurrentes y permite unir de forma segura los entornos industriales (OT) con los sistemas corporativos (IT).
+
+## 5. Fuentes
+NIST. (2011). The NIST Definition of Cloud Computing (SP 800-145). (Cloud Computing).
+Microsoft Learn. (2024). Guía de arquitectura híbrida de Azure con Azure Arc. (Cloud Computing).
+Microsoft News. (2023). Chips propios de Microsoft para IA: Azure Maia 100 y Cobalt 100. (IA Generativa).
+Microsoft Learn. (2024). Arquitectura y privacidad en Azure OpenAI Service y Copilot. (IA Generativa).
+Microsoft Learn. (2024). Arquitectura de referencia de Azure IoT Operations. (IIoT y Edge).
+Microsoft Datacenters. (2024). Telemetría IoT y eficiencia energética en centros de datos. (IIoT y Edge).
+Microsoft Security. (2024). Centro de orientación de arquitectura Zero Trust. (Ciberseguridad).
+Microsoft Learn. (2024). Supervisión de redes OT con Microsoft Defender for IoT y Sentinel. (Cibersegurida
+
